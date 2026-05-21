@@ -1,1 +1,5 @@
-
+![Cookies](cookies_devtools.png.png)
+![Nmap Scan](nmap_scan.png.png)
+![Headers](headers_devtools.png.png)
+![Insecure Banner](insecure_banner.png.png)
+![ZAP Alerts](zap_alerts.png.png)
